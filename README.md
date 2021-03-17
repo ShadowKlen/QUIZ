@@ -1,4 +1,7 @@
 # QUIZ
+
+Platform >> Android. 
+
 Hi! 
 Languge project >> RUS.
 ===========================================
