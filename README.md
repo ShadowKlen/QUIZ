@@ -1,9 +1,7 @@
 # QUIZ
-
-Platform >> Android. 
-
 Hi! 
 Languge project >> RUS.
+Platform >> Android. 
 ===========================================
 Version 1.0.0 
 
